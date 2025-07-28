@@ -37,7 +37,7 @@ This dataset was compiled to:
 
 ## License
 
-This dataset is licensed under the **[Community Data License Agreement – Sharing, Version 2.0 (CDLA-Sharing-2.0)](https://cdla.dev/sharing-2-0/)**.
+This dataset is licensed under the **[Community Data License Agreement – Sharing, Version 1.0 (CDLA-Sharing-1.0)](https://spdx.org/licenses/CDLA-Sharing-1.0.html)**.
 
 ### You Can:
 - Use, modify, and share the dataset freely.
