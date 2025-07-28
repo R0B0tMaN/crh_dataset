@@ -3,7 +3,7 @@
 **Clinical Records Hub (CRH) Open Datasets**  
 A collection of machine- and human-readable datasets curated to standardize healthcare delivery, research, and EMR integration across Africa and beyond.
 
-## 📦 Available Datasets
+## Available Datasets
 
 - **Certifications & Licenses** (`/certifications/`)  
   Global health professional certifications, board specializations, and licensing bodies — for pharmacist, physician, and allied health credentialing.
@@ -17,11 +17,11 @@ A collection of machine- and human-readable datasets curated to standardize heal
 - **Standard Test Batteries** (`/standard_batteries/`)  
   Bundled sets of recommended investigations for key diseases and symptoms.
 
-## 🔓 License
+## License
 
 Each dataset directory contains its own license. Unless otherwise stated, all datasets default to the MIT License.
 
-## 🤝 Contributing
+## Contributing
 
 See the [`/certifications/CONTRIBUTING.md`](./certifications/CONTRIBUTING.md) file to get started. Each module will have its own contribution guidelines.
 
