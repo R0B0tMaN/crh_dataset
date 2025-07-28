@@ -1,0 +1,31 @@
+Community Data License Agreement – Sharing, Version 2.0 (CDLA-Sharing-2.0)
+
+1. License Grant. You may use, reproduce, modify and share this Data (in whole or in part) for any purpose, provided that you include a complete copy of this Agreement with every copy of the Data you share, and retain all copyright, patent, and trademark notices.
+
+2. Notices. If You share the Data (with or without Modifications), You must include: 
+  a. A statement that the Data is licensed under this Agreement;
+  b. A copy of this Agreement; and
+  c. Information on how to obtain the original or modified Data.
+
+3. Modifications and Derived Data. You may create and share Modifications and Derived Data provided that:
+  a. You clearly document the changes;
+  b. You license the Modified or Derived Data under this Agreement; and
+  c. You include attribution to the original data provider(s).
+
+4. Disclaimer of Warranty. The Data is provided "AS IS" without warranties or conditions of any kind.
+
+5. Limitation of Liability. In no event will any Contributor be liable for damages arising out of or related to this Agreement or the use of the Data.
+
+6. Termination. If you violate the terms of this license, your rights will terminate automatically.
+
+7. Definitions.
+  - "Data" means the original data, any updates or additions, and any Derivative Works thereof.
+  - "You" means the licensee or party using the data.
+  - "Modifications" means changes or additions made to the Data.
+  - "Derived Data" means data resulting from Modifications.
+
+8. Governing Law. This license will be governed by the laws of the jurisdiction where the licensor is based unless otherwise required.
+
+For more information and full legal text, see: https://cdla.dev/sharing-2-0/
+
+© 2025 Clinical Records Hub (CRH) – https://clinicalrecordshub.com.ng
