@@ -1,0 +1,23 @@
+title: CRH Certifications & Licenses Dataset
+description: >
+  A structured dataset of global and regional certifications, licenses, and credentials 
+  relevant to healthcare professionals, including physicians, pharmacists, and other practitioners.
+type: object
+properties:
+  Abbreviation:
+    type: string
+    description: Shortened form of the certification or license name, e.g., 'BCPS', 'MBBS'
+  Full Name:
+    type: string
+    description: The complete name of the certification or license
+  Specialty:
+    type: string
+    description: The medical, pharmaceutical, or healthcare specialization the certification applies to
+  Issuing Body:
+    type: string
+    description: The board, council, or institution that awards the certification/license
+required:
+  - Abbreviation
+  - Full Name
+  - Specialty
+  - Issuing Body
