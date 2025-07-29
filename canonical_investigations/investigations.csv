@@ -1,0 +1,32 @@
+LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName
+64098-7,Six minute walk distance,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Pre-test,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Pre-test,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 1,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 1,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 2,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 2,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 3,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 3,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 4,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 4,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 5,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 5,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Minute 6,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 6,64098-7,Six minute walk test
+8889-8,Heart rate by Pulse oximetry - Post-test,64098-7,Six minute walk test
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Post-test,64098-7,Six minute walk test
+64101-9,Borg fatigue - resting,64098-7,Six minute walk test
+64097-9,Borg fatigue - post exercise,64098-7,Six minute walk test
+64113-4,Borg dyspnea - resting,64098-7,Six minute walk test
+64112-6,Borg dyspnea - post exercise,64098-7,Six minute walk test
+19911-7,Diffusion capacity of carbon monoxide,19911-7,DLCO Study
+19910-9,Diffusion capacity of carbon monoxide Predicted,19911-7,DLCO Study
+98130-8,Diffusion capacity of carbon monoxide/Predicted,19911-7,DLCO Study
+98091-2,Diffusion capacity of carbon monoxide --pre bronchodilation,19911-7,DLCO Study
+19913-3,Diffusion capacity of carbon monoxide adjusted for hemoglobin,19911-7,DLCO Study
+98092-0,Diffusion capacity of carbon monoxide --post bronchodilation,19911-7,DLCO Study
+69578-3,Diffusion capacity of carbon monoxide/Alveolar volume adjusted for hemoglobin,19911-7,DLCO Study
+19912-5,Diffusion capacity of carbon monoxide adjusted for hemoglobin by Helium single breath,19911-7,DLCO Study
+19914-1,Diffusion capacity/Alveolar volume by Single breath of carbon monoxide+Helium,19911-7,DLCO Study
+19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study
