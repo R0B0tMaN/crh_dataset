@@ -17,6 +17,9 @@ A collection of machine- and human-readable datasets curated to standardize heal
 - **Standard Test Batteries** (`/standard_batteries/`)  
   Bundled sets of recommended investigations for key diseases and symptoms.
 
+- **Reference standards** (`/reference_standards/`)
+  Reference standards for the canonical "lab" investigations, for LIS, EMR and clinical decision support and an alerting system.
+
 ## License
 
 Each dataset directory contains its own license. Unless otherwise stated, all datasets default to the MIT License.
