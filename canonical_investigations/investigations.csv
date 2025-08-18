@@ -1,39 +1,54 @@
 LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName,Category,Unit
-64098-7,Six minute walk distance,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,
-64101-9,Borg fatigue - resting,64098-7,Six Minute Walk Test,other,
-64097-9,Borg fatigue - post exercise,64098-7,Six Minute Walk Test,other,
-64113-4,Borg dyspnea - resting,64098-7,Six Minute Walk Test,other,
-64112-6,Borg dyspnea - post exercise,64098-7,Six Minute Walk Test,other,
-19911-7,Diffusion capacity of carbon monoxide,19911-7,DLCO Study,other,
-19910-9,Diffusion capacity of carbon monoxide Predicted,19911-7,DLCO Study,other,
-98130-8,Diffusion capacity of carbon monoxide/Predicted,19911-7,DLCO Study,other,
-98091-2,Diffusion capacity of carbon monoxide --pre bronchodilation,19911-7,DLCO Study,other,
-19913-3,Diffusion capacity of carbon monoxide adjusted for hemoglobin,19911-7,DLCO Study,other,
-98092-0,Diffusion capacity of carbon monoxide --post bronchodilation,19911-7,DLCO Study,other,
+64098-7,Six minute walk distance,64098-7,Six Minute Walk Test,other,m/(6.min)
+8889-8,Heart rate by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,b/m
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,b/n
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,%
+8889-8,Heart rate by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,b/n
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,%
+64101-9,Borg fatigue - resting,64098-7,Six Minute Walk Test,other,,
+64097-9,Borg fatigue - post exercise,64098-7,Six Minute Walk Test,other,,
+64113-4,Borg dyspnea - resting,64098-7,Six Minute Walk Test,other,,
+64112-6,Borg dyspnea - post exercise,64098-7,Six Minute Walk Test,other,,
+19911-7,Diffusion capacity of carbon monoxide,19911-7,DLCO Study,other,cm3/min/mm[Hg]
+19910-9,Diffusion capacity of carbon monoxide Predicted,19911-7,DLCO Study,other,cm3/min/mm[Hg]
+98130-8,Diffusion capacity of carbon monoxide/Predicted,19911-7,DLCO Study,other,%
+98091-2,Diffusion capacity of carbon monoxide --pre bronchodilation,19911-7,DLCO Study,other,cm3/min/mm[Hg]
+19913-3,Diffusion capacity of carbon monoxide adjusted for hemoglobin,19911-7,DLCO Study,other,cm3/min/mm[Hg]
+98092-0,Diffusion capacity of carbon monoxide --post bronchodilation,19911-7,DLCO Study,other,cm3/min/mm[Hg]
 69578-3,Diffusion capacity of carbon monoxide/Alveolar volume adjusted for hemoglobin,19911-7,DLCO Study,other,
 19912-5,Diffusion capacity of carbon monoxide adjusted for hemoglobin by Helium single breath,19911-7,DLCO Study,other,
 19914-1,Diffusion capacity/Alveolar volume by Single breath of carbon monoxide+Helium,19911-7,DLCO Study,other,
 19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study,other,
+18759-1,Spirometry document,81459-0,Forced Spirometry,other,,
 19869-7,Forced Vital Capacity (FVC) predicted,81459-0,Forced Spirometry,other,
 19876-2,Forced Vital Capacity (FVC) --pre bronchodilation,81459-0,Forced Spirometry,other,
 19874-7,Forced Vital Capacity (FVC) --post bronchodilation,81459-0,Forced Spirometry,other,
 19871-3,Forced Vital Capacity (FVC) ratio --pre bronchodilation,81459-0,Forced Spirometry,other,
 19873-9,Forced Vital Capacity (FVC) ratio --post bronchodilation,81459-0,Forced Spirometry,other,
 69982-7,Forced Vital Capacity (FVC) percent change,81459-0,Forced Spirometry,other,
-
+20149-1,Forced Expiratory Volume at 1 second (FEV1) predicted,81459-0,Forced Spirometry,other
+20157-4,Forced Expiratory Volume at 1 second (FEV1) --pre bronchodilation,81459-0,Forced Spirometry,other
+20155-8,Forced Expiratory Volume at 1 second (FEV1) --post bronchodilation,81459-0,Forced Spirometry,other
+20152-5,Forced Expiratory Volume at 1 second (FEV1) ratio --pre bronchodilation,81459-0,Forced Spirometry,other
+20152-5,Forced Expiratory Volume at 1 second (FEV1) ratio --post bronchodilation,81459-0,Forced Spirometry,other
+69983-5,Forced Expiratory Volume at 1 second (FEV1) percent change,81459-0,Forced Spirometry,other
+19925-7,FEV1/FVC predicted,81459-0,Forced Spirometry,other
+19926-5,FEV1/FVC --pre bronchodilation,81459-0,Forced Spirometry,other,
+69970-2,FEV1/FVC --post bronchodilation,81459-0,Forced Spirometry,other
+69984-3,FEV1/FVC %change,81459-0,Forced Spirometry,other
+69974-4,Peak Expiratory Flow (PEF) predicted,81459-0,Forced Spirometry,other
+69975-1,Peak Expiratory Flow (PEF) --pre bronchodilation,81459-0,Forced Spirometry,other
+69976-9,Peak Expiratory Flow (PEF) --post bronchodilation,81459-0,Forced Spirometry,other
+69977-7,Peak Expiratory Flow (PEF) ratio --pre bronchodilation,81459-0,Forced Spirometry,other
+69978-5,Peak Expiratory Flow (PEF) ratio --post bronchodilation,81459-0,Forced Spirometry,other
