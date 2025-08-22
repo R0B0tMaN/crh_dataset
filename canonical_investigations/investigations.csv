@@ -29,7 +29,7 @@ LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName,Ca
 69578-3,Diffusion capacity of carbon monoxide/Alveolar volume adjusted for hemoglobin,19911-7,DLCO Study,other,
 19912-5,Diffusion capacity of carbon monoxide adjusted for hemoglobin by Helium single breath,19911-7,DLCO Study,other,
 19914-1,Diffusion capacity/Alveolar volume by Single breath of carbon monoxide+Helium,19911-7,DLCO Study,other,
-19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study,other,
+19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study,other
 18759-1,Spirometry document,81459-0,Forced Spirometry,other,,
 19869-7,Forced Vital Capacity (FVC) predicted,81459-0,Forced Spirometry,other,
 19876-2,Forced Vital Capacity (FVC) --pre bronchodilation,81459-0,Forced Spirometry,other,
