@@ -42,7 +42,7 @@ LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName,Ca
 20155-8,Forced Expiratory Volume at 1 second (FEV1) --post bronchodilation,81459-0,Forced Spirometry,other,
 20152-5,Forced Expiratory Volume at 1 second (FEV1) ratio --pre bronchodilation,81459-0,Forced Spirometry,other,
 20152-5,Forced Expiratory Volume at 1 second (FEV1) ratio --post bronchodilation,81459-0,Forced Spirometry,other,
-69983-5,Forced Expiratory Volume at 1 second (FEV1) percent change,81459-0,Forced Spirometry,other
+69983-5,Forced Expiratory Volume at 1 second (FEV1) percent change,81459-0,Forced Spirometry,other,
 19925-7,FEV1/FVC predicted,81459-0,Forced Spirometry,other,
 19926-5,FEV1/FVC --pre bronchodilation,81459-0,Forced Spirometry,other,
 69970-2,FEV1/FVC --post bronchodilation,81459-0,Forced Spirometry,other,
